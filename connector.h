@@ -1,0 +1,1 @@
+FILE * downloadFromUrl(char* url);
